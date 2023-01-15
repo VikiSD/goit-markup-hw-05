@@ -74,6 +74,7 @@ body {
   width: 1440px;
   left: 0px;
   top: 0px;
+  z-index: 10;
 }
 
 .header-navigation>a {
@@ -298,7 +299,6 @@ body {
 .portfolio-cards{
   display: flex;
   flex-wrap: wrap;
-  
   gap: 48px 24px;
   background-color: var(--main-light-color);
   
