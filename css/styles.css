@@ -178,6 +178,7 @@ body {
 
 .main {
   background-color: var(--main-light-color);
+  padding-top: 76px;
 }
 
 
